@@ -12,7 +12,7 @@ public class exercicioWhileProposto {
         double notas = 0;
         double recebedor = 0;
         int contador = 0;
-        while(notas >= 0){
+        while(notas != -1){
             System.out.print("Digite a nota para ser inserida: ");
             notas = sc.nextDouble();
             if(notas > 0 && notas <= 10){

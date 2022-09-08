@@ -109,4 +109,12 @@
 		<item key="DIALOG_HEIGHT" value="655"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
+	<section name="nls_accessor_history">
+		<section name="0">
+			<item key="accessorName" value="Messages"/>
+			<item key="accessorPackage" value="=Calculadora/src&lt;br.com.lgb.calc.modelo"/>
+			<item key="bundleName" value="messages.properties"/>
+			<item key="bundlePackage" value="=Calculadora/src&lt;br.com.lgb.calc.modelo"/>
+		</section>
+	</section>
 </section>
